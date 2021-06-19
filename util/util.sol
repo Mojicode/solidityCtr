@@ -1,4 +1,4 @@
-pragma solidity ^0.4.16;
+pragma solidity ^0.8.0;
 
 contract util{
     function intToString(int32 v) public pure returns (string memory) {
